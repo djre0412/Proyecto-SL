@@ -7,6 +7,7 @@ Se realizó la Fase 1 que incluye:
 Notebook (Proyecto_F1_AD)
 - Análisis exploratorio
 - Selección de variables
+
 Notebook (Proyecto_F1_FE)
 - Imputación de variables
 - Codificación de variables categóricas
