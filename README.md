@@ -17,6 +17,7 @@ Notebook (Proyecto_F1_FE)
 
 Se realizó la Fase 2 que incluye:
 Notebook (Proyecto_F2_M)
+
 Se construyeron los siguientes modelos con diferentes hiperparametros:
 - Regresión Logistica
 - Naive Bayes
