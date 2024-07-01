@@ -16,3 +16,22 @@ Se realizó la Fase 1 que incluye:
 - Tarnsformación de variables numéricas
 - Tratamiento de outliers
 - Estandarización de variables Proyecto final de Statistical Learning
+
+Se realizó la Fase 2 que incluye:
+
+**Notebook (Proyecto_F2_M)**
+
+Se construyeron los siguientes modelos con diferentes hiperparametros:
+
+- Regresión Logistica
+- Naive Bayes
+- Random Forest
+- Decision Tree
+- K-Nearest Neighbors
+- SVC
+- Gradient Boosting
+- Ada Boost
+- XGBoost
+- LDA
+- QDA
+- LGBM
